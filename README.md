@@ -57,7 +57,7 @@ public class PatInsertionSort {
 
 ### Örnek Kodu Çıktısı
 
-![Örnek Kodu Çıktısı]()
+![Örnek Kodu Çıktısı](https://github.com/ibrahimertugrulkorkmaz/PatikaInsertionSortProject/blob/master/CodeOutput.png)
 
 -----------------------------------
 ## **1. Soruda verilen dizinin Insertion Sort sıralama algoritmasına göre aşamaları**
